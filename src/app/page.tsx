@@ -47,7 +47,7 @@ export default function Home() {
         <p className="text-6xl text-white mb-8">
           HEYY
         </p>
-        <ColorButton onClick={handleColorChange} />
+        <ColorButton onClick={handleColorChange} className="bg-green-500" />
         <p className="text-sm text-gray-500 mt-4">
           Current color: {backgroundColor}
         </p>
