@@ -44,8 +44,8 @@ export default function Home() {
         <h1 className="text-4xl font-bold text-red-600 mb-4">
           Random Color Generator
         </h1>
-        <p className="text-xl text-gray-600 mb-8">
-          Click the button to change the background color!
+        <p className="text-6xl text-white mb-8">
+          HEYY
         </p>
         <ColorButton onClick={handleColorChange} />
         <p className="text-sm text-gray-500 mt-4">
