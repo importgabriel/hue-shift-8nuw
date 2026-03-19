@@ -1,2 +1,3 @@
-# hue-shift-8nuw
-Build me a website that on button click changes the background to a random color
+# App
+
+Built by [Agent Switch](https://theswitchai.com/code).
