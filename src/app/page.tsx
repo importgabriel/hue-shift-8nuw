@@ -42,7 +42,7 @@ export default function Home() {
     >
       <div className="text-center space-y-8">
         <h1 className="text-4xl font-bold text-blue-600 mb-4">
-          Random #'s
+          Hello Nathan
         </h1>
         <p className="text-6xl text-white mb-8">
           HEYY
